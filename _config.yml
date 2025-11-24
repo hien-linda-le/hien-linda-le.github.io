@@ -1,4 +1,10 @@
 title: Linda Le
+description: >
+  <div style="text-align:center;">
+    <img src="images/Me.jpg?raw=true" alt="Linda Le"
+         style="border-radius:50%; width:140px; height:140px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+  </div>
+  
 logo: /images/headshot_circle.png
 #description: text below image
 show_downloads: true
