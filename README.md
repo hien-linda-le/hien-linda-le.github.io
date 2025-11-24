@@ -33,19 +33,19 @@ Welcome to my Data Analytics portfolio! Here, I showcase projects demonstrating 
 🔗 [View Project](Link)
 ---
 
-## 💼 About Me
+## About Me
 I am a **Business/Data Analyst** with hands-on experience across the healthcare, consulting, and education sectors. I combine strong technical expertise in **Power BI, Tableau, Excel, R, SQL and Python**. I’m passionate about turning complex datasets into clear, actionable insights that drive business value.
 
 ---
 
-## 📬 Contact
+## Contact
 - 🌐 [Portfolio Website](Link)  
 - 💼 [LinkedIn](Link)  
 - 📧 Email: 
 
 ---
 
-## ⚡ Skills
+## Skills
 - **Data Visualization:** Tableau, Power BI  
 - **Data Management:** SQL
 - **Methodologies:** 
