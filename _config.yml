@@ -1,15 +1,32 @@
-title: "Linda Le"
+title: ""
 
 description: >
-  <div style="text-align:center;">
-    <img src="/images/headshot_circle.png?raw=true" alt="Linda Le"
-         style="border-radius:50%; width:140px; height:140px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+  <div style="position: relative; width: 150px; margin: 0 auto; text-align:center;">
+
+    <!-- Profile image -->
+    <img src="/images/headshot_circle.png?raw=true"
+         alt="Linda Le"
+         style="border-radius:50%; width:150px; height:150px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+
+    <!-- Centered title overlay -->
+    <div style="
+      position:absolute;
+      top:50%;
+      left:50%;
+      transform:translate(-50%, -50%);
+      color:white;
+      font-size:22px;
+      font-weight:700;
+      text-shadow:0 2px 6px rgba(0,0,0,0.4);
+    ">
+      Linda Le
+    </div>
   </div>
 
-  <br><br>
+  <br>
 
-  <div style="text-align:center; font-size:16px; font-weight:600; color:#333;">
-    Aspiring Business/Data Analyst with hands-on experience across healthcare, consulting, and education sectors.
+  <div style="text-align:center; font-size:16px; font-weight:600; color:#333; margin-top:10px;">
+    Aspiring Business/Data Analyst with experience across healthcare, consulting, and education sectors.
   </div>
 
 social_links:
