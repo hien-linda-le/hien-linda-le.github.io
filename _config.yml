@@ -11,18 +11,12 @@ description: >
     <!-- Profile image -->
     <img src="/images/headshot_circle.png?raw=true"
          alt="Linda Le"
-         style="border-radius:50%; width:150px; height:150px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+         style="border-radius:50%; width:200px; height:200px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
 
   </div>
-
-  <br>
 
   <div style="text-align:center; font-size:16px; font-weight:600; color:#333; margin-top:10px;">
     Aspiring Business/Data Analyst with experience across healthcare, consulting, and education sectors.
   </div>
-
-social_links:
-  linkedin: "https://www.linkedin.com/in/hien-linda-le-74978b207/"
-  github: "https://github.com/hien-linda-le"
 
 theme: jekyll-theme-minimal
