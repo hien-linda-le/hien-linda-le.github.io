@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 # Projects
 
 ## 1. Title [Tableau]  
