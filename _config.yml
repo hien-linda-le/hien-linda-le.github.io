@@ -1,4 +1,5 @@
 title: "Linda Le"
+
 description: >
   <div style="text-align:center;">
     <img src="/images/headshot_circle.png?raw=true" alt="Linda Le"
@@ -6,13 +7,13 @@ description: >
   </div>
 
   <br><br>
+
   <div style="text-align:center; font-size:16px; font-weight:600; color:#333;">
-    Aspiring Business/ Data Analyst with hands-on experience across the healthcare, consulting, and education sectors.
+    Aspiring Business/Data Analyst with hands-on experience across healthcare, consulting, and education sectors.
   </div>
 
 social_links:
   linkedin: "https://www.linkedin.com/in/hien-linda-le-74978b207/"
   github: "https://github.com/hien-linda-le"
 
-  </div>
 theme: jekyll-theme-minimal
