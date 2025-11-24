@@ -1,26 +1,18 @@
-title: ""
+title: " " 
 
 description: >
-  <div style="position: relative; width: 150px; margin: 0 auto; text-align:center;">
+  <div style="text-align:center;">
+
+    <!-- Title -->
+    <div style="font-size:26px; font-weight:700; margin-bottom:12px; color:#333;">
+      Linda Le
+    </div>
 
     <!-- Profile image -->
     <img src="/images/headshot_circle.png?raw=true"
          alt="Linda Le"
          style="border-radius:50%; width:150px; height:150px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
 
-    <!-- Centered title overlay -->
-    <div style="
-      position:absolute;
-      top:50%;
-      left:50%;
-      transform:translate(-50%, -50%);
-      color:white;
-      font-size:22px;
-      font-weight:700;
-      text-shadow:0 2px 6px rgba(0,0,0,0.4);
-    ">
-      Linda Le
-    </div>
   </div>
 
   <br>
