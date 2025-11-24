@@ -1,4 +1,23 @@
-title: Linda Le
+# Site settings
+title: "Linda Le"
 logo: /images/headshot_circle.png
-#description: text below image
-theme: jekyll-theme-minimal
+description: "A showcase of my data analytics projects, skills, and dashboards."
+url: "https://hien-linda-le.github.io" # replace with your GitHub username
+
+# Author information
+author:
+  name: "Linda Le"
+  email: "hiengavuon@example.com"
+
+# Theme
+theme: jekyll-theme-cayman  # simple and clean theme
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Social links (optional)
+social_links:
+  linkedin: "https://www.linkedin.com/in/hien-linda-le-74978b207/"
+  github: "https://github.com/hien-linda-le"
