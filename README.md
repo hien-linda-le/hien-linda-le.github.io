@@ -1,7 +1,11 @@
 # Linda Le – Portfolio
 
-Welcome to my professional portfolio repository.  
-Here you’ll find a collection of my projects, dashboards, and case studies showcasing my expertise in **Business Analysis, Data Transformation, and Reporting** using **Power BI, Tableau, Excel, R and SQL**.
+Welcome to my Data Analytics portfolio! Here, I showcase projects demonstrating skills in:
+
+- Data analysis using R and Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data visualisation and dashboards (Power BI, Tableau)
+- Machine learning and predictive modelling
+- SQL and database management (Excel)
 
 ---
 
