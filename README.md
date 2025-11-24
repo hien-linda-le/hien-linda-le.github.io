@@ -1,55 +1,120 @@
-# Linda Le – Portfolio
 
-Welcome to my Data Analytics portfolio! Here, I showcase projects demonstrating skills in:
+---
+layout: default
+---
 
-- Data analysis using R and Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data visualisation and dashboards (Power BI, Tableau)
-- Machine learning and predictive modelling
-- SQL and database management (Excel)
+# Projects
+
+## 1. Title [Tableau]  
+🔗 [View Project](Link)  
+
+✍️ Description
+- **Dashboard:** What it does
+  
+  ![Sales Dashboard](Images)
+
+- **Dashboard:** What it does
+  
+  ![Customer Dashboard](Images)
+
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
 ---
 
-## Projects
+## 2. Title [Tableau]  
+🔗 [View Project](Link)  
 
-### 1. Sales and Customer Dashboard
-(Short Descriptions)
-🔗 [View Project](Link)
+✍️ Description
+- **Dashboard:** What it does
+  
+  ![Sales Dashboard](Images)
 
----
+- **Dashboard:** What it does
+  
+  ![Customer Dashboard](Images)
 
-### 2. Sales and Customer Dashboard
-(Short Descriptions)
-🔗 [View Project](Link)
-
----
-
-### 3. Sales and Customer Dashboard
-(Short Descriptions)
-🔗 [View Project](Link)
----
-
-### 4. Sales and Customer Dashboard
-(Short Descriptions)
-🔗 [View Project](Link)
----
-
-## About Me
-I am a **Business/Data Analyst** with hands-on experience across the healthcare, consulting, and education sectors. I combine strong technical expertise in **Power BI, Tableau, Excel, R, SQL and Python**. I’m passionate about turning complex datasets into clear, actionable insights that drive business value.
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
 ---
 
-## Contact
-- 🌐 [Portfolio Website](Link)  
-- 💼 [LinkedIn](Link)  
-- 📧 Email: 
+## 3. Title [Tableau]  
+🔗 [View Project](Link)  
+
+✍️ Description
+- **Dashboard:** What it does
+  
+  ![Sales Dashboard](Images)
+
+- **Dashboard:** What it does
+  
+  ![Customer Dashboard](Images)
+
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
 ---
 
-## Skills
-- **Data Visualization:** Tableau, Power BI  
-- **Data Management:** SQL
-- **Methodologies:** 
-- **Productivity Tools:** Excel (Advanced), Microsoft Office  
+## 4. Title [Tableau]  
+🔗 [View Project](Link)  
+
+✍️ Description
+- **Dashboard:** What it does
+  
+  ![Sales Dashboard](Images)
+
+- **Dashboard:** What it does
+  
+  ![Customer Dashboard](Images)
+
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
 ---
+
+# 📝 About Me
+
+## 💼 Experience
+
+### PwC, Australia  
+**Analyst** (March 2025 – Present)  
+- Ensured data accuracy and compliance through robust validation processes, maintaining 100% audit readiness within high-volume KYC operations.
+- Streamlined data collection and verification workflows, reducing issue resolution time by 25%.
+- Improved data accuracy and turnaround time by optimising document verification workflows using Excel automation and data validation checks.
+- Utilised multiple data management systems (CRM, ALLFI, HOGAN, ) to extract, verify, and reconcile customer information efficiently.
+
+### Australian Menopause Centre, Australia  
+**Business Analyst & Data Analyst Intern** (July 2024 – December 2024)  
+- Reduced manual reporting time by 30% by designing and maintaining interactive Power BI KPI dashboards that streamlined data access for senior management.
+- Leveraged the company’s CRM system to extract, clean, and integrate patient health, marketing, and operational data for comprehensive analysis.
+- Analysed complex datasets to identify growth opportunities and improve decision-making across departments.
+- Delivered accurate forecasting models and insights that informed strategic planning and budget allocation, directly supporting business growth projections.
+- Improved data management efficiency through workflow automation and best-practice documentation, strengthening the organisation’s analytics and CRM integration capabilities.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Data Science**, Western Sydney University (March 2024 – December 2025)  
+- **Bachelor of Computer Science**, Western Sydney University (March 2022 – December 2023) 
+
+---
+
+## 🛠️ Technical Skills
+
+- **Data Visualisation**: Tableau, Power BI  
+- **Data Management**: SQL, Python 
+- **Productivity Tools**: Excel (Advanced), Microsoft Office  
+- **Methodologies**: Agile PM  
+
+---
+
+## 🌐 Languages
+
+- Vietnamese (Native)
+- English (Intermediate)  
+
+---
+
+## 📜 Certifications
+
+- Web Analytics & Digital Marketing Analytics - Udemy (2025)
+- Career Essentials in Data Analysis - Microsoft & LinkedIn (2024)
 
