@@ -53,4 +53,3 @@ I am a **Business/Data Analyst** with hands-on experience across the healthcare,
 
 ---
 
-## 🎯 Goal
