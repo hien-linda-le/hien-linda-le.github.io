@@ -1,23 +1,18 @@
-# Site settings
 title: "Linda Le"
-logo: /images/headshot_circle.png
-description: "A showcase of my data analytics projects, skills, and dashboards."
-url: "https://hien-linda-le.github.io" # replace with your GitHub username
+description: >
+  <div style="text-align:center;">
+    <img src="/images/headshot_circle.png?raw=true" alt="Linda Le"
+         style="border-radius:50%; width:140px; height:140px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+  </div>
 
-# Author information
-author:
-  name: "Linda Le"
-  email: "hiengavuon@example.com"
+  <br><br>
+  <div style="text-align:center; font-size:16px; font-weight:600; color:#333;">
+    Aspiring Business/ Data Analyst with hands-on experience across the healthcare, consulting, and education sectors.
+  </div>
 
-# Theme
-theme: jekyll-theme-minimal 
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-
-# Social links (optional)
 social_links:
   linkedin: "https://www.linkedin.com/in/hien-linda-le-74978b207/"
   github: "https://github.com/hien-linda-le"
+
+  </div>
+theme: jekyll-theme-minimal
