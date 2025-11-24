@@ -95,9 +95,9 @@
 ## 🛠️ Technical Skills
 
 - **Data Visualisation**: Tableau, Power BI  
-- **Data Management**: SQL, Python 
-- **Productivity Tools**: Excel (Advanced), Microsoft Office  
-- **Methodologies**: Agile PM  
+- **Data Management**: SQL, R, Python 
+- **Productivity Tools**: Excel, Microsoft Office  
+- **Methodologies**: Agile  
 
 ---
 
