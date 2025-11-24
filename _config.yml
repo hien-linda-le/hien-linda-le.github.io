@@ -10,7 +10,7 @@ author:
   email: "hiengavuon@example.com"
 
 # Theme
-theme: jekyll-theme-cayman  # simple and clean theme
+theme: jekyll-theme-minimal 
 
 # Build settings
 markdown: kramdown
