@@ -1,18 +1,14 @@
 # Projects
 
-## 1. Title [Tableau]  
-🔗 [View Project](Link)  
+## 1. McDonald’s Menu Nutrition Explorer [Tableau]  
+🔗 [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
 ✍️ Description
-- **Dashboard:** What it does
+- **Dashboard:** A Tableau dashboard designed to help users compare McDonald’s menu items across calories, fat, sugar, sodium, and serving size. Includes interactive filters for meal type and nutrition categories, making it easier to choose healthier or preferred meal options.
   
-  ![Sales Dashboard](Images)
+  ![Dashboard](images/mcdonald_nutrition.png)
 
-- **Dashboard:** What it does
-  
-  ![Customer Dashboard](Images)
-
-🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support informed decision-making.
 
 ---
 
