@@ -3,10 +3,15 @@
 ## 1. McDonald’s Menu Nutrition Explorer [Tableau]  
 🔗 [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
-✍️ Description
-- **Dashboard:** A Tableau dashboard designed to help users compare McDonald’s menu items across calories, fat, sugar, sodium, and serving size. Includes interactive filters for meal type and nutrition categories, making it easier to choose healthier or preferred meal options.
+✍️ Description: Tableau dashboards designed to help users compare McDonald’s menu items across calories, fat, sugar, sodium, and serving size. Includes interactive filters for meal type and nutrition categories, making it easier to choose healthier or preferred meal options.
   
-  ![Dashboard](images/mcdonald_nutrition.png)
+- **Comparative Nutritions:** Show analysis across key nutritional metrics, including Calories vs. Fat, Protein vs. Calories, Fat Composition, Sodium levels, and Sugar content.
+  
+  ![Comparative Nutritions](images/mcdonald_nutrition1.png)
+
+- **Meal Builder:** Provides a detailed analysis comparing the individual nutritional values of a selected meal.
+  
+  ![Meal Builder](images/mcdonald_nutrition2.png)
 
 🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support informed decision-making.
 
