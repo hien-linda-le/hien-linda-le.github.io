@@ -19,4 +19,27 @@ description: >
     Aspiring Business/Data Analyst
   </div>
 
+  <div style="display:grid; grid-template-columns:repeat(2, 150px); gap:12px; justify-content:center;">
+
+    <a href="https://www.linkedin.com/in/hien-linda-le-74978b207/" target="_blank"
+       style="display:flex; align-items:center; justify-content:center;
+              background:#0077B5; color:white; padding:6px 10px;
+              text-decoration:none; border-radius:6px; font-weight:bold;
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
+      <img src="images/Linkedin.png"
+           alt="LinkedIn" width="16" height="16" style="margin-right:6px;">
+      LinkedIn
+    </a>
+
+    <a href="mailto:hiengavuon@gmail.com"
+       style="display:flex; align-items:center; justify-content:center;
+              background:#cc0000; color:white; padding:6px 10px;
+              text-decoration:none; border-radius:6px; font-weight:bold;
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
+      <img src="images/gmail.png"
+           alt="Email" width="16" height="16" style="margin-right:6px;">
+      Email
+    </a>
+  </div>
+
 theme: jekyll-theme-minimal
