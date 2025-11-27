@@ -26,7 +26,7 @@ description: >
               background:#0077B5; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="images/Linkedin.png"
+      <img src="/images/Linkedin.png"
            alt="LinkedIn" width="16" height="16" style="margin-right:6px;">
       LinkedIn
     </a>
@@ -36,7 +36,7 @@ description: >
               background:#cc0000; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="images/gmail.png"
+      <img src="/images/gmail.png"
            alt="Email" width="16" height="16" style="margin-right:6px;">
       Email
     </a>
