@@ -1,6 +1,7 @@
 # 📑 Projects
 
 ## 1. McDonald’s Menu Nutrition Explorer [Tableau]  
+
 🔗  [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
 ✍️ Description: Tableau dashboards designed to help users compare McDonald’s menu items across calories, fat, sugar, sodium, and serving size. Includes interactive filters for meal type and nutrition categories, making it easier to choose healthier or preferred meal options.
@@ -18,6 +19,7 @@
 ---
 
 ## 2. Are You Cooked This Semester? [HTML • CSS • JavaScript] 
+
 🔗 [View Project]([Link](https://hien-linda-le.github.io/exam_calculator/))  
 
 ✍️ Description: A fun, interactive web calculator that helps students determine their final subject mark based on assessment scores, weightings, and compulsory pass requirements. The tool dynamically generates input fields, calculates weighted totals, checks threshold conditions, and provides an instant pass/fail verdict.
@@ -89,8 +91,9 @@
 
 ## 🎓 Education
 
-- **Bachelor of Data Science**, Western Sydney University (March 2024 – December 2025)  
-- **Bachelor of Computer Science**, Western Sydney University (March 2022 – December 2023) 
+- **Bachelor of Data Science (minor in Cybersecurity Systems)**, Western Sydney University (March 2024 – December 2025)
+
+- **Bachelor of Computer Science (major in Artificial Intelligence)**, Western Sydney University (March 2022 – December 2023) 
 
 ---
 
