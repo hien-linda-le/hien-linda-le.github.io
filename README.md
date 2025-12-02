@@ -2,7 +2,7 @@
 
 ## 1. Real Estate Valuation Analysis [Python • StatsModels] 🏠
 
-🔗 [View Project]([Link](https://github.com/hien-linda-le/real-estate-analysis.git)) 
+🔗 [View Project](https://github.com/hien-linda-le/real-estate-analysis.git)
 
 ✍️ Description: A full statistical analysis exploring how structural and locational factors influence housing prices in a Taiwan city. This project uses Python, Pandas, StatsModels, and Seaborn to uncover linear, interaction-based, and nonlinear effects behind real estate valuation.
 
