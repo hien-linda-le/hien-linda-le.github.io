@@ -63,7 +63,7 @@
 
 ## 3. Are You Cooked This Semester? [HTML • CSS • JavaScript] 💯
 
-🔗 [View Project]([Link](https://hien-linda-le.github.io/exam_calculator/))  
+🔗 [View Project](https://hien-linda-le.github.io/exam_calculator/)  
 
 ✍️ Description: A fun, interactive web calculator that helps students determine their final subject mark based on assessment scores, weightings, and compulsory pass requirements. The tool dynamically generates input fields, calculates weighted totals, checks threshold conditions, and provides an instant pass/fail verdict.
   
