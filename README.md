@@ -1,11 +1,10 @@
 # 📑 Projects
 
-## 1. Real Estate Valuation Analysis [Python • StatsModels]
+## 1. Real Estate Valuation Analysis [Python • StatsModels] 🏠
 
 🔗 [View Project]([Link](https://github.com/hien-linda-le/real-estate-analysis.git)) 
 
-✍️ Description:
-A full statistical analysis exploring how structural and locational factors influence housing prices in a Taiwan city. This project uses Python, Pandas, StatsModels, and Seaborn to uncover linear, interaction-based, and nonlinear effects behind real estate valuation.
+✍️ Description: A full statistical analysis exploring how structural and locational factors influence housing prices in a Taiwan city. This project uses Python, Pandas, StatsModels, and Seaborn to uncover linear, interaction-based, and nonlinear effects behind real estate valuation.
 
 **Correlation & Exploratory Analysis:** Conducted EDA to understand variable relationships. Key findings include:
 
@@ -44,7 +43,7 @@ A full statistical analysis exploring how structural and locational factors infl
 
 ---
 
-## 2. McDonald’s Menu Nutrition Explorer [Tableau]  
+## 2. McDonald’s Menu Nutrition Explorer [Tableau] 🍔
 
 🔗  [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
@@ -62,7 +61,7 @@ A full statistical analysis exploring how structural and locational factors infl
 
 ---
 
-## 3. Are You Cooked This Semester? [HTML • CSS • JavaScript] 
+## 3. Are You Cooked This Semester? [HTML • CSS • JavaScript] 💯
 
 🔗 [View Project]([Link](https://hien-linda-le.github.io/exam_calculator/))  
 
