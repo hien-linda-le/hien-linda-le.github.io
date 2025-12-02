@@ -1,6 +1,50 @@
 # 📑 Projects
 
-## 1. McDonald’s Menu Nutrition Explorer [Tableau]  
+## 1. Real Estate Valuation Analysis [Python • StatsModels]
+
+🔗 [View Project]([Link](https://github.com/hien-linda-le/real-estate-analysis.git)) 
+
+✍️ Description:
+A full statistical analysis exploring how structural and locational factors influence housing prices in a Taiwan city. This project uses Python, Pandas, StatsModels, and Seaborn to uncover linear, interaction-based, and nonlinear effects behind real estate valuation.
+
+**Correlation & Exploratory Analysis:** Conducted EDA to understand variable relationships. Key findings include:
+
+- Strong negative correlation between distance to MRT and price.
+
+- Positive association between nearby convenience stores and higher prices.
+
+- Older homes tend to be priced lower.
+
+![Graph 1](images/real-estate-analysis2.png)
+
+**Regression Modeling:** Developed multiple OLS regression models to compare predictive performance and interpret effects:
+
+- Simple Linear Regression: price ~ distanceMRT
+
+- Multiple Regression: price ~ age + convstore + year
+
+- Interaction Model: distanceMRT × convstore
+
+- Polynomial Model: non-linear distance effects using squared and cubic terms.
+  Included diagnostic checks for heteroskedasticity, multicollinearity, and residual distribution.
+
+![Graph 2](images/real-estate-analysis1.png)
+
+**Key Insights:**
+
+- Homes closer to MRT stations consistently hold higher value.
+
+- Convenience store count amplifies pricing, potentially capturing neighbourhood accessibility.
+
+- Interaction effects show MRT distance matters more in areas with fewer stores.
+
+- Polynomial modeling reveals pricing declines with MRT distance at a non-linear rate.
+
+🔎 Showcases skills in statistical reasoning, data preprocessing, OLS modeling, interaction term analysis, model diagnostics, and interpreting real-world economic relationships.
+
+---
+
+## 2. McDonald’s Menu Nutrition Explorer [Tableau]  
 
 🔗  [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
@@ -18,7 +62,7 @@
 
 ---
 
-## 2. Are You Cooked This Semester? [HTML • CSS • JavaScript] 
+## 3. Are You Cooked This Semester? [HTML • CSS • JavaScript] 
 
 🔗 [View Project]([Link](https://hien-linda-le.github.io/exam_calculator/))  
 
@@ -33,38 +77,6 @@
   ![Final Mark & Pass/Fail Calculator](images/exam_calculator2.jpeg)
 
 🔎 Demonstrates skills in DOM manipulation, client-side logic, dynamic UI creation, and user-centric interactive tool design.
-
----
-
-## 3. Title [Tableau]  
-🔗 [View Project](Link)  
-
-✍️ Description
-- **Dashboard:** What it does
-  
-  ![Sales Dashboard](Images)
-
-- **Dashboard:** What it does
-  
-  ![Customer Dashboard](Images)
-
-🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
-
----
-
-## 4. Title [Tableau]  
-🔗 [View Project](Link)  
-
-✍️ Description
-- **Dashboard:** What it does
-  
-  ![Sales Dashboard](Images)
-
-- **Dashboard:** What it does
-  
-  ![Customer Dashboard](Images)
-
-🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
 ---
 
