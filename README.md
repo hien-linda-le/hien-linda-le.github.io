@@ -1,4 +1,4 @@
-# 📑 Projects
+# 📑 Passion Projects
 
 ## 1. Real Estate Valuation Analysis [Python • StatsModels] 🏠
 
