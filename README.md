@@ -43,7 +43,21 @@
 
 ---
 
-## 2. McDonald’s Menu Nutrition Explorer [Tableau] 🍔
+## 2. Travel Booking Analytics Dashboard [Tableau] ✈️
+
+🔗  [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/ExpediaTravelDashboard_17648482177060/SeasonCalendar)  
+
+✍️ Description: An end-to-end Tableau project analysing global hotel search and booking behaviour using the Expedia public dataset on Kaggle. This dashboard suite explores user behaviour, destination trends, the search to booking funnel, channel performance, and seasonality patterns across two years of travel activity.
+  
+![Graph 1](images/expedia1.png)
+
+![Graph 2](images/expedia2.png)
+
+🔎 Demonstrates skills in data cleaning, date modelling, multi-dashboard navigation, global filtering, parameter design, and storytelling through interactive Tableau dashboards. Perfect for showcasing analytical thinking and dashboard-building capabilities in real industry scenarios.
+
+---
+
+## 3. McDonald’s Menu Nutrition Explorer [Tableau] 🍔
 
 🔗  [View Project](https://public.tableau.com/app/profile/linda.le7580/viz/mcdonald_nutrition/Dashboard1?publish=yes)  
 
@@ -61,7 +75,7 @@
 
 ---
 
-## 3. Are You Cooked This Semester? [HTML • CSS • JavaScript] 💯
+## 4. Are You Cooked This Semester? [HTML • CSS • JavaScript] 💯
 
 🔗 [View Project](https://hien-linda-le.github.io/exam_calculator/)  
 
